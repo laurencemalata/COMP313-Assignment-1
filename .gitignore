@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Testing if ignore.txt is being ignored.
 ignore.txt
+ignorethisothertext.txt
